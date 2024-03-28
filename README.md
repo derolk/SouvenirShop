@@ -1,5 +1,6 @@
 # SouvenirShop
 MY FIRST ATTEMPT AT CODING
+
 Summer Camp Test Problem
 The project is a maven project as it had to use special funtions for Http requests to API and Json commands hence special pages run by Maven were used.
 use any java ide that supports Maven (Intellij most recommended as the code was written in Intellij)
